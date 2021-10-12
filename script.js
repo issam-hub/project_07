@@ -26,10 +26,10 @@ scrolll.addEventListener("click", function () {
 let logo = document.querySelector(".header img");
 let logo2 = document.querySelector(".footer img");
 logo.addEventListener("click", function () {
-  window.open("http://127.0.0.1:5500/", "_self");
+  window.open("https://issam-hub.github.io/project_07/", "_self");
 });
 logo2.addEventListener("click", function () {
-  window.open("http://127.0.0.1:5500/", "_self");
+  window.open("https://issam-hub.github.io/project_07/", "_self");
 });
 
 // autoplay the video
